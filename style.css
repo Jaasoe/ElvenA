@@ -262,6 +262,7 @@ body{
     height:98%;
     background-color:sandybrown;
     width:95%;
+    overflow-y:scroll;
 }
 .rollStatContainer{
     display:flex;
@@ -271,7 +272,7 @@ body{
     margin-left:5%;
     margin-bottom:0.5%;
     height:10%;
-    width:90%;
+    white-space:nowrap;
 }
 .rollStatButton{
     margin-right:1%;
